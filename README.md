@@ -1,9 +1,5 @@
-# Playwright_Repo
+### Ngx-Admin Angular 14 application from akveo.com
 
-# 🎭 Playwright Basics
+This is modified and more lightweight version of original application to practice UI Automation with Playwright.
 
-This repository contains beginner-friendly examples and reusable patterns for automated UI testing using **[Playwright](https://playwright.dev/)** with **JavaScript**. 
-It’s designed for QA engineers, developers, or automation testers looking to get started or build a strong foundation in Playwright.
-
----
-
+The original repo is here: https://github.com/akveo/ngx-admin
